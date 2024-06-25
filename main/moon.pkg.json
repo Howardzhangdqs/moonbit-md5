@@ -1,0 +1,6 @@
+{
+  "is-main": true,
+  "import": [
+    "Howardzhangdqs/md5/lib"
+  ]
+}

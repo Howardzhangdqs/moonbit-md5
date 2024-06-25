@@ -1,0 +1,10 @@
+{
+  "name": "Howardzhangdqs/md5",
+  "version": "0.1.0",
+  "readme": "README.md",
+  "repository": "",
+  "license": "Apache-2.0",
+  "keywords": ["md5"],
+  "description": "MD5 的 MoonBit 实现",
+  "homepage": "https://github.com/Howardzhangdqs"
+}
